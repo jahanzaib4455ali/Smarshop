@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719664018759",
+    "project_id": "smarshop-7bfc2",
+    "storage_bucket": "smarshop-7bfc2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719664018759:android:c7c8e9ab9b41ca0c400862",
+        "android_client_info": {
+          "package_name": "com.example.smarshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeYiR6Ow1_5TyIUmHN5O9PK0GZj13j1O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

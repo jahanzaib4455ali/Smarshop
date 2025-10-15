@@ -1,0 +1,36 @@
+name: smarshop
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase core package (required for all Firebase services)
+  firebase_core: ^3.4.0
+
+  # Firebase Authentication (for login/signup)
+  firebase_auth: ^5.3.1
+
+  # Cloud Firestore (for storing products, orders, etc.)
+  cloud_firestore: ^5.4.2
+
+  # Firebase Storage (for storing images)
+  firebase_storage: ^12.3.2
+
+  # Cupertino icons
+  cupertino_icons: ^1.0.8
+  image_picker: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
